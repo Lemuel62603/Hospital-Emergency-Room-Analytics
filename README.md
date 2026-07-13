@@ -1,7 +1,6 @@
-# Project-2
+# 🏥 Hospital Emergency Room Dashboard
 hospital-emergency-room-descriptive-analytics-using-powerbi
 
-# 🏥 Hospital Emergency Room Dashboard
 
 ## 📌 Project Overview
 
