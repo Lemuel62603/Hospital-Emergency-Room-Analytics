@@ -68,7 +68,7 @@ The objective of this project is to support operational monitoring and data-driv
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard2](Images/Dashboard.png)
 
 ---
 
